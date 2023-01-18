@@ -1,0 +1,11 @@
+module.exports={
+    User:require('./user'),
+    Hospital:require('./hospital'),
+    Doctor:require('./doctor'),
+    HealthLog:require('./healthlog'),
+    Appointment:require('./appointment'),
+    SymptomJaurnal:require('./symptom'),
+    Prescription:require('./prescription'),
+    Client:require('./client'),
+    Code:require('./code')
+}
